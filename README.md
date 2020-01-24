@@ -70,10 +70,11 @@ Need I say more?
 
 **NOTE** 
 
-On **linux** system, install `libsqlcipher-dev` 
+On **linux** system, install `libsqlcipher-dev`, and `python-pip`
 
 ```sh
 $ sudo apt-get install libsqlcipher-dev
+$ sudo apt-get install python-pip
 ```
 
 On **Mac OS** systems, you can install it by 
